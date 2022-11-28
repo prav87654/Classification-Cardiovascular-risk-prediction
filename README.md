@@ -13,4 +13,4 @@ For selecting the best models, I had imported pycharet to compare different clas
 
 Tuning the hyperparameters of respective algorithms is necessary for getting better accuracy and to avoid overfitting and underfitting which was achieved by Grid search cv.
 
-. In all of these models our accuracy revolves in the range of 82 to 83%.and had calculated the evaluation metrics for each model.
+In all of these models our accuracy revolves in the range of 82 to 83%.and had calculated the evaluation metrics for each model.
